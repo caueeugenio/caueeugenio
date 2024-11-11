@@ -1,8 +1,6 @@
 ## 👋 Olá! Seja bem vindo ao meu perfil, meu nome é Cauê😁
-<div style="display:flex;">
-    <img src="https://github.com/user-attachments/assets/cc66e3c3-bde1-4196-a09d-7cadedc53751" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" height="200px"align="left">
-    <a href="https://www.linkedin.com/in/caueeugenio/"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" alt="LinkedIn" align="right"/></a>
-</div>
+
+
 
 
 
@@ -33,8 +31,11 @@
 
 </p>
 
-<p align="left">
+<p align="right">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caueeugenio&layout=compact)
 
 </p>
+
+<a href="https://www.linkedin.com/in/caueeugenio/"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" alt="LinkedIn" align="right"/></a>
+
